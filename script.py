@@ -4,7 +4,7 @@ import json
 content = {
     "name": "EVAA Friend Card",
     "description": "Get benefits of being EVAA friend",
-    "image": "https://telegra.ph/file/b3f72773d53da58cdadba.png"
+    "image": "https://telegra.ph/file/2bb894e826e178d27d211.png"
 }
 
 # Loop through the range of file numbers (99 to 199)
