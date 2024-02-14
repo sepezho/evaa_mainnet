@@ -1,7 +1,16 @@
 {
-    "name": "EVAA Friends",
-    "description": "This collection is created for friends of EVAA protocol",
-    "image": "https://telegra.ph/file/124a901201d2fb62542a6.png",
-    "cover_image": "https://telegra.ph/file/ea68f8fa04ffd220ea82f.png",
-    "social_links": ["https://t.me/evaaprotocol"]
+  "name": "EVAA Mainnet Card Collection",
+  "description": "An exclusive collection of limited edition cards granting privileged access to Evaa Protocol's Closed Mainnet Beta. It's a testament to the holder's early belief and support for the Evaa Protocol.",
+  "image": "https://s.getgems.io/nft/c/650974deace772246afaa165/edit/images/65243d0f5a724adf4c9cdc28.png",
+  "external_url": "https://getgems.io/collection/EQCCqt3Qd47iQeV2Y38X0dqD6FqhysTXtH1bB11qCJyyGG8G",
+  "external_link": null,
+  "social_links": [
+    "https://twitter.com/evaaprotocol",
+    "https://t.me/evaaprotocol",
+    "https://evaa.finance",
+    "https://t.me/EvaaAppBot",
+    "https://t.me/EvaaProtocolHub"
+  ],
+  "marketplace": "getgems.io",
+  "cover_image": "https://s.getgems.io/nft/c/650974deace772246afaa165/edit/images/65243d1f5a724adf4c9cdc29.png"
 }

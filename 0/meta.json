@@ -1,0 +1,12 @@
+{
+  "name": "EVAA Mainnet Card",
+  "description": "Limited edition card granting access to Evaa Protocol's Closed Mainnet Beta.",
+  "marketplace": "getgems.io",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Mainnet"
+    }
+  ],
+  "image": "https://"
+}
